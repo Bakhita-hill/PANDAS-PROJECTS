@@ -1,30 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 import pandas as pd
-
-
-# In[6]:
-
-
 df = pd.read_csv(r"C:\Users\USER\Documents\project csvs\diabetes.csv")
 df
-
-
 # # What are the total number of records in the dataset?
-# 
-
-# In[8]:
-
-
 df.info()
-
-
-# In[7]:
-
 
 df = df.astype(float)
 
