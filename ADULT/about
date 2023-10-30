@@ -1,0 +1,3 @@
+In this Pandas project, I employed a range of fundamental Pandas functions to effectively manage and analyze the dataset. These functions encompassed operations such as 'unique,' 'drop,' 'replace,' 'isin,' 'duplicate,' 'sort_values,' 'head,' 'tail,' 'groupby,' 'len,' 'between,' 'astype,' and 'describe.' 
+Additionally, I leveraged the power of Seaborn and Matplotlib to craft insightful visualizations, including a heat map, box plot, and histogram. 
+The primary objective of this project was to execute data cleaning and gain a comprehensive understanding of the dataset, culminating in the creation of informative visual representations.
